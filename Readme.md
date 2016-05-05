@@ -44,6 +44,7 @@ check if a group of file exist:
   ftool = require('file-tools');
   
   ftool.exists(['/usr/bin/grep', '/usr/bin/cat', '/usr/bin/tail' ]); 
+  //return true.
 ```
 
 
