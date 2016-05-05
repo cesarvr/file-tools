@@ -1,0 +1,21 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "Allows you to search files / directories recursively, starting by a given path.",
+  "main": "file-tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ce"
+  },
+  "keywords": [
+    "search",
+    "filesystem",
+    "recursively",
+    "fast"
+  ],
+  "author": "cvaldezr",
+  "license": "MIT"
+}
